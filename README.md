@@ -5,6 +5,3 @@ Just run the python script with an input argumen of either "1" or "0" depending 
 
 Then run the bash scipt in the backround in another terminal .
 
-Video Of the project can be found at the link : https://www.youtube.com/watch?v=1BD5C_B2o5Y&t=51s
-
-Please feel free to ask any questions @ anupamy@gmail.com.
